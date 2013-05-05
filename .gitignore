@@ -55,7 +55,7 @@ pickle-email-*.html
 #   git config --global core.excludesfile ~/.gitignore_global
 #
 # Here are some files you may want to ignore globally:
-
+*~
 # scm revert files
 **.orig
 
